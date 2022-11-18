@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Mastodon profiles
+
+* <a href="https://toot.org.il/@x59" rel="me">EN Technical</a>
+* <a href="https://toot.org.il/@uda" rel="me">HE Personal</a>
+* <a href="https://toot.org.il/@yehudade" rel="me">EN Personal</a>
+
 <!--
 **uda/uda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
